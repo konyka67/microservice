@@ -27,4 +27,6 @@ spring:
 ## Instance port
 server:
   port: 8080
+  use-forward-headers: true
+
 
